@@ -197,4 +197,4 @@ Create View vw_JoinData as
     select * from prod_Churn where Customer_Status = 'Joined';
  ```
 # Step 2 : Power BI Transformation
-
+Goal of the Dashboard To deliver an interactive visual tool that enables users to explore the customer churn reason 
