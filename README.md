@@ -196,5 +196,69 @@ Create View vw_ChurnData as
 Create View vw_JoinData as
     select * from prod_Churn where Customer_Status = 'Joined';
  ```
-# Step 2 : Power BI Transformation
-Goal of the Dashboard To deliver an interactive visual tool that enables users to explore the customer churn reason 
+# Step 2 : Power BI Dashboard 
+This Power BI dashboard provides a comprehensive summary of customer churn analytics. It helps businesses understand customer retention patterns and identify high-risk segments using various dimensions such as demographics, geography, contract details, and service usage. <br>
+
+# 📊 Dashboard Highlights
+
+- Total Customers: 6,418
+
+- New Joiners: 411
+
+- Total Churned Customers: 1,732
+
+- Overall Churn Rate: 27%
+
+# Key Sections
+ - Demographic Insights
+
+Churn by Gender: Both male and female customers show churn, with males slightly higher.
+
+Churn by Age Group: Customers aged over 50 show the highest churn rate (31%).
+
+- Geographic Insights
+
+Churn by State: Jammu & Kashmir shows the highest churn rate among states.
+
+- Account Information
+
+Churn by Contract Type: Month-to-month contracts have the highest churn.
+
+Churn by Tenure: Long-term customers (>24 months) show the highest absolute churn, despite loyalty.
+
+Churn by Payment Method: Bank transfers and mailed checks are associated with higher churn rates.
+
+ - Service Usage
+
+Churn by Internet Type: Fiber Optic users churn the most.
+
+Churn by Services: Services like Phone Service, Premium Support, and Internet Service show higher churn among users who opted in.
+
+# Churn Distribution
+
+Top Churn Reasons:
+
+- Competitor Influence
+
+- Customer Attitude
+
+- Dissatisfaction
+
+- Pricing Issues
+
+- Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
