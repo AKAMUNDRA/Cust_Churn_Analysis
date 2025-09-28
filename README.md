@@ -199,6 +199,10 @@ Create View vw_JoinData as
 # Step 2 : Power BI Dashboard 
 This Power BI dashboard provides a comprehensive summary of customer churn analytics. It helps businesses understand customer retention patterns and identify high-risk segments using various dimensions such as demographics, geography, contract details, and service usage. <br>
 
+![Customer Churn Dashboard](https://github.com/AKAMUNDRA/Cust_Churn_Analysis/blob/main/Cust_Churn.png
+)
+
+
 # 📊 Dashboard Highlights
 
 - Total Customers: 6,418
