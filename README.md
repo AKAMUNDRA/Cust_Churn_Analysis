@@ -8,7 +8,7 @@ The dashboard was built using the following tools and technologies:<br>
 •	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
 •	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
 •	📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
-•	📁 File Format – .pbix for development and .png for dashboard previews.
+•	📁 File Format – .pbit for development and .png for dashboard previews.
 ## Project Targets
 Develop a complete ETL workflow within a database and build a Power BI dashboard to leverage customer data for the following objectives:
 - Visualize & Analyse Customer Data at below levels
